@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversorIdade</string>
+    <string name="hintDia">Insira o Dia</string>
+    <string name="hintMes">Insira o Mês</string>
+    <string name="hintAno">Insira o Ano</string>
+    <string name="calc">Calcular</string>
+</resources>
